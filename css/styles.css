@@ -5,11 +5,30 @@ background: aqua;
 p {
 	color:white;
 	background-color:gray;
-	background-size: 25px;
+	display:inline;
+	padding:5px;
+	border-radius:10px;
+	box-shadow:10px 10px 5px black;
 }
 
 a {
 	color: yellow;
 	font-size: 32px;
 	text-decoration: none;
+}
+
+
+
+
+
+.home:hover {
+	color:white;
+}
+
+.bio:hover {
+	color:white;
+}
+
+.resume:hover {
+	color:white;
 }

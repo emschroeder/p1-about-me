@@ -3,6 +3,7 @@ background: aqua;
 }
 	
 p {
+	font-family:sans-serif;
 	color:white;
 	background-color:gray;
 	display:inline;
@@ -12,12 +13,20 @@ p {
 }
 
 a {
-	color: yellow;
+	color: purple;
 	font-size: 32px;
 	text-decoration: none;
+	font-family: sans-serif;
 }
 
 
+h1 {
+	font-family:sans-serif;
+}
+
+ul {
+	font-family:sans-serif;
+}
 
 
 

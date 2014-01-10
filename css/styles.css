@@ -3,7 +3,9 @@ background: aqua;
 }
 	
 p {
-	color:blue;
+	color:white;
+	background-color:gray;
+	background-size: 25px;
 }
 
 a {
